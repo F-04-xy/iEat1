@@ -1,0 +1,6 @@
+{
+  "name": "iEat",
+  "description": "A gamified app for healthy eating, sugar control, and diet tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
